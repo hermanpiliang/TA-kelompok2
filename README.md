@@ -12,7 +12,7 @@ Team kelompok 2:
 
 -   [Rita LInk ERD](https://drive.google.com/file/d/1pGaZ16oo5lh9LJTZZKdzNR0YZVxCgH_C/view?usp=sharing).
 -   [Ekel LInk ERD](https://drive.google.com/file/d/1pGaZ16oo5lh9LJTZZKdzNR0YZVxCgH_C/view?usp=sharing).
--   [Herman LInk ERD](https://drive.google.com/file/d/1pGaZ16oo5lh9LJTZZKdzNR0YZVxCgH_C/view?usp=sharing).
+-   [Herman LInk ERD](https://drive.google.com/drive/folders/1tB9apa9b8zZTYgg3GRzpqwDd63OyUgl1?usp=sharing).
 -   [Najmi LInk ERD](https://drive.google.com/file/d/1pGaZ16oo5lh9LJTZZKdzNR0YZVxCgH_C/view?usp=sharing).
 -   [Adly LInk ERD](https://drive.google.com/file/d/1pGaZ16oo5lh9LJTZZKdzNR0YZVxCgH_C/view?usp=sharing).
 
